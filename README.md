@@ -1,4 +1,6 @@
 # Ex03 Time Table
+## Name: Renick Fabian Rajesh
+## Reg no: 212224230227
 ## Date: 10/04/2025
 
 ## AIM
@@ -31,7 +33,7 @@ Execute the program using runserver command.
 </head>
 <body>
 <center>
-<img src="/static/logo.png" height="100" width="500">
+<img src="c:\Users\admin\Pictures\Screenshots\Screenshot 2025-05-08 110239.png" height="100" width="500">
 </center>
 <br>
 <table align="center" width="500" cellspacing="3" cellpadding="2" border="2" bgcolor="yellow">
@@ -47,21 +49,21 @@ Execute the program using runserver command.
 </tr>
 <tr align="center">
 <th bgcolor="pink">8-10</th>
-<td>Fundamentals of Web Application Development</td>
-<td>Digital Electronics</td>
-<td>German Basic and Advanced</td>
-<td>Digital Electronics</td>
+<td>FREE SLOT</td>
+<td>FREE SLOT</td>
+<td>Career development skills</td>
+<td>FREE SLOT</td>
 <td>FREE SLOT</td>
 <td>FREE SLOT</td>
 </tr>
 <tr align="center">
 <th bgcolor="pink">10-12</th>
+<td>C Programming</td>
+<td>Computer Networks</td>
+<td>Computer Networks</td>
+<td>Web Development</td>
 <td>FREE SLOT</td>
-<td>FREE SLOT</td>
-<td>Probability and Queueing Models</td>
-<td>Creative Skills</td>
-<td>Python Programming</td>
-<td>Operating System</td>
+<td>C Programming</td>
 </tr>
 <tr>
 <th bgcolor="pink">12-1</th>
@@ -69,21 +71,21 @@ Execute the program using runserver command.
 </tr>
 <tr align="center">
 <th bgcolor="pink">1-3</th>
-<td>German Basic and Advanced</td>
+<td>B.EEE</td>
+<td>Web Development</td>
+<td>Mentor Meet</td>
+<td>Operating Systems</td>
+<td>Operating Systems</td>
 <td>FREE SLOT</td>
-<td>FREE SLOT</td>
-<td>Fundamentals of Web Application Development</td>
-<td>Fundamentals of Web Application Development</td>
-<td>Probability and Queueing Models</td>
 </tr>
 <tr align="center">
 <th bgcolor="pink">3-5</th>
-<td>Operating System</td>
-<td>German Basic and Advanced</td>
+<td>EMPD</td>
 <td>FREE SLOT</td>
-<td>Python Programming</td>
-<td>FREE SLOT</td>
-<td>FREE SLOT</td>
+<td>B.EEE</td>
+<td>Probability and queing models</td>
+<td>EMPD</td>
+<td>Probability and queing models</td>
 </tr>
 </table>
 <br>
@@ -100,8 +102,8 @@ Execute the program using runserver command.
 </tr>
 <tr>
 <td align="center">2.</td>
-<td align="center">19AI301</td>
-<td>Python Programming(Python)</td>
+<td align="center">19CS302</td>
+<td>C Programming</td>
 </tr>
 <tr>
 <td align="center">3.</td>
@@ -110,13 +112,13 @@ Execute the program using runserver command.
 </tr>
 <tr>
 <td align="center">4.</td>
-<td align="center">19EE404</td>
-<td>Digital Electronics(DE)</td>
+<td align="center">19EE305</td>
+<td>Basic Electrical, Electronics and Measurement Engineering</td>
 </tr>
 <tr>
 <td align="center">5.</td>
-<td align="center">19EN613C</td>
-<td>German Basic and Advanced(GBA)</td>
+<td align="center">19CS406</td>
+<td>Compter Networks</td>
 </tr>
 <tr>
 <td align="center">6.</td>
@@ -125,8 +127,8 @@ Execute the program using runserver command.
 </tr>
 <tr>
 <td align="center">7.</td>
-<td align="center">19EY702</td>
-<td>Creative Skills(CS)</td>
+<td align="center">19AI303</td>
+<td>Engineering Mechanics and Product Development</td>
 </tr>
 </table>
 </body>
@@ -134,7 +136,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![alt text](<Screenshot 2025-04-10 141349.png>)
+![Screenshot 2025-05-08 110449](https://github.com/user-attachments/assets/0efdc26d-8d5b-4ac5-861b-192a6140311c)
+
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
